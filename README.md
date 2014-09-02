@@ -6,6 +6,7 @@ It's a nodejs proxy, implemented steam interface, supports socks4, socks4a, sock
 ## How to use
 
 Install by `$npm install proxy.stream`
+
 Use `new Proxy({ type: 'direct' })` to create a proxy stream.
 
 ###Example 1: direct access
