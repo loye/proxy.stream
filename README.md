@@ -1,10 +1,11 @@
-proxy-stream
+proxy.stream
 ============
 
 It's a nodejs proxy, implemented steam interface, supports socks4, socks4a, socks5 and http.
 
 ## How to use
 
+Install by `$npm install proxy.stream`
 Use `new Proxy({ type: 'direct' })` to create a proxy stream.
 
 ###Example 1: direct access
