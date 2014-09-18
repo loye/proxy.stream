@@ -38,6 +38,10 @@ net.createServer(function (s) {
 });
 ```
 
+###Example 3: qproxy
+
+Proxy based on websocket for crossing "GFW". [Source](https://github.com/loye/node.qproxy)
+
 ###More
 
 This is a stream, it can be used simply in multiple scenarios.
